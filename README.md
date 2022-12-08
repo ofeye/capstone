@@ -1,5 +1,3 @@
-# capstone
+# Applied Data Science Capstone
 
-# Editing the file
-
-It's a markdown file in repository.
+Notebook and python files shared in this repositories.
